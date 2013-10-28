@@ -1,0 +1,53 @@
+* { border: 0; margin: 0; padding: 0; outline: 0; }
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  color: #333;
+  background: #FFF5EE;
+}
+
+#box {
+  margin: 50px auto;
+  padding: 50px 50px 40px;
+}
+
+.amp { font-family: Baskerville; font-style: italic; }
+
+img {
+  border-radius: 150px;
+  height: 84px;
+  width: 84px;
+  margin: 0 auto 25px;
+  display: block;
+}
+
+h1 {
+  margin-bottom: 25px;
+  font-size: 32px;
+  line-height: 32px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 26px;
+  line-height: 26px;
+  font-weight: normal;
+  font-family: Georgia, serif;
+  text-align: center;
+  color: #aaa;
+  margin-bottom: 25px;
+}
+
+a {
+  color: #666;
+}
+
+@media screen and (max-width: 480px) {
+  #box {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0;
+  }
+}
