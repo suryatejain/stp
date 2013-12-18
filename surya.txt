@@ -1,4 +1,4 @@
-<span id="a">admin@suryateja</span>:<span id="b">~</span><span id="c">$</span> glimpse "surya teja"<br/><br/>
+<span id="a">admin@suryateja</span>:<span id="b">~</span><span id="c">$</span> grep "surya teja"<br/><br/>
 Hi, I'm Surya Teja.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I graduated in Electronics with an interest in Web technologies.  I graduated from Indian Institute of Technology Kharagpur.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>I'm the founder and designer/coder of <a href="http://www.zuxfer.com">Zuxfer</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>I love to read, listen to music, and travel.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
