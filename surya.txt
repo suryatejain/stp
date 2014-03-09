@@ -2,7 +2,7 @@
 Hi, I'm Surya Teja.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I graduated in Electronics with an interest in Web technologies.  I graduated from Indian Institute of Technology Kharagpur.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>I'm the founder and designer/coder of <a href="http://www.zuxfer.com">Zuxfer</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>I love to read, listen to music, and travel.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
-If you would like to get in touch with me, whether it be for technology brain storming, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href="mailto:suryateja.p@gmail.com">suryateja.p@gmail.com</a>. And be sure to check my online <a href='resume'>resume</a>.
+If you would like to get in touch with me, whether it be for technology brain storming, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href="mailto:suryateja.p@gmail.com">suryateja.p@gmail.com</a>. And be sure to check my online <a href='http://www.suryateja.in/resume'>resume</a>.
 <p>And if you haven't already, be sure to check out my site <a href="http://www.zuxfer.com">http://www.zuxfer.com</a>.</p>
 <!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 <span title="Courtesy, Kurt Cobain">Peace, love, Empathy</span><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
